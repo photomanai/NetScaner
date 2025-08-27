@@ -36,7 +36,7 @@ Built with **Scapy**, it performs **ARP scans**, shows **IP & MAC addresses**, *
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/NetScanner.git
+git clone https://github.com/photomanai/NetScanner.git
 cd NetScanner
 ```
 
